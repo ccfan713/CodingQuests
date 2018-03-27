@@ -1,0 +1,10 @@
+C:\Users\mithilap\source\repos\CodingTests\CodingTests\obj\Debug\CodingTests.csprojResolveAssemblyReference.cache
+C:\Users\mithilap\source\repos\CodingTests\CodingTests\obj\Debug\CodingTests.csproj.CoreCompileInputs.cache
+C:\Users\mithilap\source\repos\CodingTests\CodingTests\bin\Debug\CodingTests.exe.config
+C:\Users\mithilap\source\repos\CodingTests\CodingTests\bin\Debug\CodingTests.exe
+C:\Users\mithilap\source\repos\CodingTests\CodingTests\bin\Debug\CodingTests.pdb
+C:\Users\mithilap\source\repos\CodingTests\CodingTests\obj\Debug\CodingTests.exe
+C:\Users\mithilap\source\repos\CodingTests\CodingTests\obj\Debug\CodingTests.pdb
+C:\Users\mithilap\source\repos\CodingTests\CodingTests\bin\Debug\Input\wordListWithApostrophes.txt
+C:\Users\mithilap\source\repos\CodingTests\CodingTests\bin\Debug\Input\wordListWithoutApostrophes.txt
+C:\Users\mithilap\source\repos\CodingTests\CodingTests\bin\Debug\Input\testInput.txt
